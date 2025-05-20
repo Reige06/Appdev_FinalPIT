@@ -30,11 +30,12 @@ Base URL: https://app-dev-backend.onrender.com
 
 Method
 
-GET https://fastapi-backend-f2k4.onrender.com/api/todos/ Description: Get all todos
-POST https://fastapi-backend-f2k4.onrender.com/api/todos/ Description: Create a new todo
+GET https://app-dev-backend.onrender.com/data
+POST https://app-dev-backend.onrender.com/data
 
 🌐 Live Links
 
-Frontend (Github repo): https://github.com/Reige06/FastAPI_frontend
-Frontend page (Github page) : https://reige06.github.io/FastAPI_frontend/
-Backend (Render): https://fastapi-backend-f2k4.onrender.com/docs
+Frontend (Github repo):
+Frontend page (Github page) : https://reige06.github.io/AppDev-frontend-reactjs/
+Backend (Render): https://app-dev-backend.onrender.com/docs
+IoT code (Github repo): 

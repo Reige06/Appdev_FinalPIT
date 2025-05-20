@@ -9,6 +9,10 @@ FastAPI (Render)
 PostgreSQL (Render)
 Axios
 SQLAlchemy
+Arduino IDE
+
+
+
 ⚙️ Setup Instructions
 
 Frontend (React):
@@ -35,7 +39,7 @@ POST https://app-dev-backend.onrender.com/data
 
 🌐 Live Links
 
-Frontend (Github repo):
+Frontend (Github repo): https://github.com/Reige06/Appdev_FinalPIT
 Frontend page (Github page) : https://reige06.github.io/AppDev-frontend-reactjs/
 Backend (Render): https://app-dev-backend.onrender.com/docs
-IoT code (Github repo): 
+IoT code (Github repo): https://github.com/Reige06/Appdev_FinalPIT
